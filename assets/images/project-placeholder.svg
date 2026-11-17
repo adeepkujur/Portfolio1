@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 430" role="img" aria-labelledby="title desc">
+<title id="title">AI Computer Lab Assistant illustration</title><desc id="desc">A stylized computer screen with an AI sparkle and support chat bubbles.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6e60e8"/><stop offset="1" stop-color="#21b6aa"/></linearGradient></defs>
+<rect width="620" height="430" rx="28" fill="#e9edf7"/><circle cx="500" cy="90" r="55" fill="#d9e2f7"/><circle cx="110" cy="350" r="70" fill="#dceeea"/>
+<rect x="112" y="85" width="396" height="250" rx="20" fill="#17243a"/><rect x="128" y="102" width="364" height="215" rx="11" fill="#f8fbff"/>
+<rect x="150" y="124" width="125" height="170" rx="9" fill="#e9edf7"/><rect x="165" y="143" width="95" height="9" rx="4" fill="#aab5cc"/><rect x="165" y="165" width="76" height="7" rx="3" fill="#c1cadb"/><rect x="165" y="184" width="83" height="7" rx="3" fill="#c1cadb"/><rect x="165" y="222" width="70" height="28" rx="7" fill="url(#g)"/>
+<rect x="294" y="124" width="177" height="75" rx="11" fill="#eef1fa"/><circle cx="324" cy="151" r="15" fill="url(#g)"/><path d="M324 140v22m-11-11h22" stroke="#fff" stroke-width="3" stroke-linecap="round"/><rect x="350" y="142" width="96" height="8" rx="4" fill="#9aa8c0"/><rect x="350" y="160" width="74" height="7" rx="3" fill="#c0cadb"/>
+<rect x="294" y="212" width="177" height="82" rx="11" fill="#e9f6f4"/><rect x="311" y="231" width="133" height="7" rx="3" fill="#8abdb7"/><rect x="311" y="250" width="112" height="7" rx="3" fill="#b0d5d0"/><rect x="311" y="269" width="87" height="7" rx="3" fill="#b0d5d0"/>
+<path d="M250 337v25m-55 7h110" stroke="#17243a" stroke-width="12" stroke-linecap="round"/><path d="M520 80l8 19 19 8-19 8-8 19-8-19-19-8 19-8z" fill="#7064eb"/><text x="310" y="410" font-family="Arial,sans-serif" font-size="15" text-anchor="middle" fill="#596781">AI COMPUTER LAB ASSISTANT</text>
+</svg>
